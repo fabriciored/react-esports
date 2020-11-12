@@ -1,0 +1,11 @@
+.App {
+    padding: 0;
+    margin: 0;
+}
+body {
+    padding: 0;
+    margin: 0;
+    background-color: grey;
+    max-width: 100%;
+
+}
