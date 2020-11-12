@@ -19,7 +19,7 @@ export const TeamInfos = [
               "https://img-cdn.hltv.org/playerbodyshot/V3E-L2NcCztPsZmhYAreWc.png?ixlib=java-2.1.0&w=400&s=46023164905db31d1b861cf998f1f1f3",
               "https://img-cdn.hltv.org/playerbodyshot/uNGsal_jIJ9UnVzBcR-PjW.png?ixlib=java-2.1.0&w=400&s=a5e34db0591d154c104e8061ccff0db4",
               "https://img-cdn.hltv.org/playerbodyshot/NPTEZFDCgoIvdQ3SR5knzq.png?ixlib=java-2.1.0&w=400&s=e2ceac8963fa8b284b81fece4758b8ff"
-        ]
+        ] 
     },
     {
         team: "BOOM",
