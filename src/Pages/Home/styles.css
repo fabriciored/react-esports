@@ -1,5 +1,6 @@
 .main {
     background-color: grey;
+    background-size: cover;
     padding: 0;
     margin: 0;
     display: flex;
